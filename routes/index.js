@@ -1,7 +1,5 @@
-const customers = require('../controllers/customer')
-const nationality = require('../controllers/nationality')
 const contract = require('../controllers/contract')
-const dashboard = require('../controllers/dashboard')
+
 
 async function routes(fastify, options, next) {
   fastify.get('/', async (request, reply) => {

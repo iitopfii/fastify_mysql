@@ -18,6 +18,6 @@ Dowload zip file
 
 # 4. Run project
 ```sh
-  npm run dev
+  node server
 ```sh
 

@@ -14,10 +14,10 @@ Dowload zip file
  install Node package 
 ```sh
   npm install
-```sh
+```
 
 # 4. Run project
 ```sh
   node server
-```sh
+```
 
